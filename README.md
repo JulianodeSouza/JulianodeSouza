@@ -2,11 +2,7 @@
 
 - 👀 Pretendendo seguir na área de programação front-end ou desenvolvimento de jogos
 - 🖥 Cursando TI
-- 📚 Estudando PHP, HTML5, CSS3 e Javascript
-
-<head> 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css"
-</head>
+- 📚 Aprendendo HTML5, CSS3 e Javascript
 
 <div>
   <a href="https://github.com/JulianodeSouza">
@@ -19,6 +15,5 @@
   <img align="center" alt="Juliano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Juliano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juliano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img class="devicon-php-plain"></i>>
 </div>
 
