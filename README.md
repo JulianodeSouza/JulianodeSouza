@@ -24,6 +24,6 @@
      <a href="https://www.instagram.com/rafael_juliano_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 		 <a href="https://open.spotify.com/playlist/0jZlUqTGJpFG3qzO1IFBji" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
-     ![Snake animation](https://github.com/JulianodeSouza)
+   ![Snake animation](https://github.com/JulianodeSouza/JulianodeSouza/blob/output/github-contribution-grid-snake.svg)
 				 
-				 </div>
+</div>
