@@ -1,6 +1,5 @@
 ## Eaii! Eu sou o Juliano Rafael de Souza 🤙
 
-- 👀 Pretendendo seguir na área de programação front-end ou desenvolvimento de jogos
 - 🖥 Cursando TI
 - 📚 Aprendendo HTML5, CSS3 e Javascript
 
