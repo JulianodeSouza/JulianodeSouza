@@ -1,7 +1,7 @@
 ## Eaii! Eu sou o Juliano Rafael de Souza 🤙
 
 - 🖥 Cursando TI
-- 📚 Aprendendo HTML5, CSS3 e Javascript
+- 📚 Aprendendo HTML5, CSS3 e Typescript
 
 <div>
   <a href="https://github.com/JulianodeSouza">
