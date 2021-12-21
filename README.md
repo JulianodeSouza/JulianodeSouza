@@ -1,6 +1,6 @@
 ## Eaii! Eu sou o Juliano Rafael de Souza 🤙
 
-- 🖥 Cursando TI
+- 🖥 TI
 
 
 <div>
