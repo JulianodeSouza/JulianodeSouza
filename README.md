@@ -13,8 +13,8 @@
 	<img align="center" alt="Juliano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Juliano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 	<img align="center" alt"Juliano-Angular" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  <img align="center" alt"Juliano-Sass" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-          
+	<img align="center" alt"Juliano-Ionic" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" />
+ 	<img align="center" alt"Juliano-Sass" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />	
 </div>  
   
   #
