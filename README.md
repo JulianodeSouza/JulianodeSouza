@@ -1,7 +1,7 @@
 ## Eaii! Eu sou o Juliano Rafael de Souza 🤙
 
 - 🖥 TI
-- WEB Developer
+- WEB/Mobile Developer
 
 <div align="rigth">
   <a href="https://github.com/JulianodeSouza">  
