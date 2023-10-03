@@ -1,7 +1,7 @@
-## Eaii! Eu sou o Juliano Rafael de Souza 🤙
+## Eaii! Sou o Juliano, bem vindo ao meu perfil! 🤙
 
-- 🖥 TI
-- WEB/Mobile Developer
+- 💻 FullStack Develover;
+- 📓 Sempre em busca de novos aprendizados;
 
 <div align="rigth">
   <a href="https://github.com/JulianodeSouza">  
