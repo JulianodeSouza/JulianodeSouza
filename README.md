@@ -1,6 +1,6 @@
 ## Eaii! Sou o Juliano, bem vindo ao meu perfil! 🤙
 
-- 💻 FullStack Develover;
+- 💻 Desenvolvedor FullStack;
 - 📓 Sempre em busca de novos aprendizados;
 
 <div align="rigth">
