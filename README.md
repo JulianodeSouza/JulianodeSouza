@@ -18,7 +18,6 @@
 	<img align="center" alt="Juliano-NodeJs" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 	<img align="center" alt="Juliano-MongoDb" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 	<img align="center" alt="Juliano-mySQL" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
- 	<img align="center" alt="Juliano-Sass" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>  
   
   #
